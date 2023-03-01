@@ -12,4 +12,6 @@ export class NgInputComponent {
 
     @Input() label: string = '';
     @Input() placeholder: string = '';
+    @Input() invalid = false;
+    @Input() disabled = false;
 }

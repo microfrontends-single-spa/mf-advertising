@@ -1,11 +1,33 @@
 @import '../../../../assets/styles/variables';
 
 $mf-advertising-form-input-line-height: $pix-19;
-$mf-advertising-form-input-font-color: #1d1d1d;
+
+//base
 $mf-advertising-form-legend-font-color: #959595;
 
+$mf-advertising-form-input-font-color: #1d1d1d;
+
+$mf-advertising-form-fieldset-background-color: #fff;
 $mf-advertising-form-fieldset-border-color: #959595;
-$mf-advertising-form--factor-legend: $pix-6;
+
+
+//invalid
+$mf-advertising-form-legend-invalid-font-color: #ff0000;
+
+$mf-advertising-form-input-invalid-font-color: #ff0000;
+
+$mf-advertising-form-fieldset-invalid-background-color: #ffc9c9;
+$mf-advertising-form-fieldset-invalid-border-color: #ff0000;
+
+//Disabled
+$mf-advertising-form-legend-disabled-font-color: #1d1d1d;
+
+$mf-advertising-form-input-disabled-font-color: #1d1d1d;
+
+$mf-advertising-form-fieldset-disabled-background-color: #e6e6e6;
+$mf-advertising-form-fieldset-disabled-border-color: #454545 ;
+
+$mf-advertising-form-factor-legend: $pix-6;
 
 .#{$app-prefix}-ng-input {
 
@@ -14,12 +36,39 @@ $mf-advertising-form--factor-legend: $pix-6;
         width: $per-100;
 
         &.#{$app-prefix}-fieldset {
-            height: calc($pix-38 + $mf-advertising-form--factor-legend);
+            height: calc($pix-38 + $mf-advertising-form-factor-legend);
             border-radius: $pix-8;
             border: $pix-1 solid $mf-advertising-form-fieldset-border-color;
-            background-color: $white;
+            background-color: $mf-advertising-form-fieldset-background-color;
             padding: 0;
-    
+
+            &.invalid {
+                background-color: $mf-advertising-form-fieldset-invalid-background-color;
+                border: $pix-1 solid $mf-advertising-form-fieldset-invalid-border-color;
+
+                .#{$app-prefix}-legend {
+                    color: $mf-advertising-form-legend-invalid-font-color;
+                }
+
+                .#{$app-prefix}-input { 
+                    color: $mf-advertising-form-input-invalid-font-color;
+                }
+            }
+
+            &.disabled {
+                background-color: $mf-advertising-form-fieldset-disabled-background-color;
+                border: $pix-1 solid $mf-advertising-form-fieldset-disabled-border-color;
+
+                .#{$app-prefix}-legend {
+                    color: $mf-advertising-form-legend-disabled-font-color;
+                }
+
+                .#{$app-prefix}-input { 
+                    color: $mf-advertising-form-input-disabled-font-color;
+                    cursor: not-allowed;
+                }
+            }
+
             .#{$app-prefix}-legend {
                 padding: 0 $pix-2;
                 margin-left: $pix-6;
@@ -30,6 +79,7 @@ $mf-advertising-form--factor-legend: $pix-6;
                 line-height: $pix-12;
                 color: $mf-advertising-form-legend-font-color;
             }
+
             .#{$app-prefix}-input {
                 width: $per-100;
                 height: $per-100;
@@ -46,10 +96,10 @@ $mf-advertising-form--factor-legend: $pix-6;
                 padding: 0 0.5em;
 
                 &.has-label {
-                    top: -$mf-advertising-form--factor-legend;
-                    height: calc(#{$per-100} + #{$mf-advertising-form--factor-legend});
-                  }
-            }    
+                    top: -$mf-advertising-form-factor-legend;
+                    height: calc(#{$per-100} + #{$mf-advertising-form-factor-legend});
+                }
+            }
         }
     }
 }

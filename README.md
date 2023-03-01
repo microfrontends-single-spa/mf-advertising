@@ -1,27 +1,37 @@
-# MfAdvertising
+# Microfrontend Advertising
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
+<p style='text-align: justify;'> Este proyecto es un microfrontend desarrollado en angular versión 15.1.2 y con single-spa en su version 4.0.0. Su principal función es la configuración de publicidad para su envio a un segmento del total de clientes de la aplicación. </p>
 
-## Development server
+<p align="center">
+    <img src="https://hme-mf-resources.netlify.app/src/assets/hme-mf-resources/images/advertising.png"/>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Storybook
 
-## Code scaffolding
+<p style='text-align: justify;'> El proyecto consta de una serie de componentes los cuales pueden ser visualizados e interactuar con ellos a través de los storybooks en el siguiente enlace <a href="https://storybook-mf-advertising.netlify.app">Storybook</a>.</p> 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Servidor de desarrollo
 
-## Build
+<p style='text-align: justify;'> Primero debemos clonar el código del <a href="https://github.com/lamatcalderon/mf-advertising">repositorio</a> y con una terminal instalar las dependencias</p> 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```sh
+npm i
+```
 
-## Running unit tests
+<p style='text-align: justify;'> Luego debemos ejecutar</p> 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```sh
+npm start
+```
 
-## Running end-to-end tests
+<p style='text-align: justify;'> Esto levantará un servidor de desarrollo localhost en el puerto 4204 </p> 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Construcción
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<p style='text-align: justify;'> Los archivos generados a través del proceso de contrucción se almacenan en la carpeta <strong>dist</strong>, para construir el proyecto debemos ejecutar el siguiente comando en una terminal</p> 
+
+
+```sh
+build:single-spa:mf-advertising
+```
