@@ -1,0 +1,28 @@
+@import '../../../../../assets/styles/variables';
+
+.#{$app-prefix}-percentage-clients {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.3em;
+
+    .chart-leyend {
+        font-size: 0.9em;
+        .item-leyend {
+            display: flex;
+            line-height: 1;
+            .label {
+                width: $pix-100;
+            }
+        }
+    }
+    
+    .chart-canvas {
+        display: flex;
+        justify-content: center;
+    }
+
+    .chart-description {
+        font-size: 0.8em;
+        text-align: center;
+    }
+}

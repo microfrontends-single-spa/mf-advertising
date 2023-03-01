@@ -1,0 +1,7 @@
+@import '../../../../../assets/styles/variables';
+
+.#{$app-prefix}-advertising {
+    display: grid;
+    gap: 1em;
+    margin-bottom: 1em;
+}

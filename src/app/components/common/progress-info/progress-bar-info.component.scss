@@ -1,0 +1,24 @@
+@import '../../../../assets/styles/variables';
+
+.#{$app-prefix}-progress-bar-info {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em 0;
+
+    .chart-percentage {
+        align-items: center;
+        display: grid;
+        gap: 1em;
+        grid-auto-columns: calc($per-100 - $pix-40) $pix-40;
+        grid-auto-flow: column;
+        line-height: 1;
+
+        .label {
+            font-size: 0.9em;
+        }
+    }
+
+    .leyend {
+        font-size: 0.8em;
+    }
+}

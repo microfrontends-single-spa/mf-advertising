@@ -1,0 +1,28 @@
+@import '../../../../assets/styles/variables';
+
+.#{$app-prefix}-header-description {
+    background-color: var(--panel-header-description-background-color);
+    border-radius: $pix-8;
+    border-left: 16px solid var(--panel-header-description-border-left-color);
+    box-shadow: 0 3px 1px -2px var(--panel-ng-card-box-shadow-color-1),
+    0 2px 2px 0 var(--panel-ng-card-box-shadow-color-2),
+    0 1px 5px 0 var(--panel-ng-card-box-shadow-color-3);
+    color: var(--panel-header-description-text-font-color);
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em;
+
+    .title {
+        line-height: 1;
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+
+    .description {
+        line-height: 1;
+        font-size: 0.9em;
+        text-align: justify;
+        text-justify: inter-word;
+        word-break: break-all; 
+    }
+}

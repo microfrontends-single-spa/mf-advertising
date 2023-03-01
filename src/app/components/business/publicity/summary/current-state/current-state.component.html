@@ -1,0 +1,34 @@
+<ng-card title="Estado actual" [showSwitch]="true">
+    <div class="{{APP_PREFIX}}-current-state">
+        <div class="info">
+            <div class="options">
+                <div class="action">
+                    <div class="circle">
+                        <em class="fa-sharp fa-solid fa-pause"></em>
+                    </div>
+                    <span>Pausar</span>
+                </div>
+                <div class="action">
+                    <div class="circle select">
+                        <em class="fa-sharp fa-solid fa-play"></em>
+                    </div>
+                    <span>Continuar</span>
+                </div>
+                <div class="action">
+                    <div class="circle">
+                        <em class="fa-sharp fa-solid fa-xmark"></em>
+                    </div>
+                    <span>Cancelar</span>
+                </div>
+            </div>
+            <div class="state">
+                <div class="action">
+                    <icon-circle>
+                        <i class="fa-sharp fa-solid fa-plus fa-2x"></i>
+                    </icon-circle>
+                    <span>CREADO</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</ng-card>

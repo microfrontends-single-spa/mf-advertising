@@ -1,0 +1,55 @@
+@import '../../../../assets/styles/variables';
+
+$mf-advertising-form-input-line-height: $pix-19;
+$mf-advertising-form-input-font-color: #1d1d1d;
+$mf-advertising-form-legend-font-color: #959595;
+
+$mf-advertising-form-fieldset-border-color: #959595;
+$mf-advertising-form--factor-legend: $pix-6;
+
+.#{$app-prefix}-ng-input {
+
+    .#{$app-prefix}-form {
+        position: relative;
+        width: $per-100;
+
+        &.#{$app-prefix}-fieldset {
+            height: calc($pix-38 + $mf-advertising-form--factor-legend);
+            border-radius: $pix-8;
+            border: $pix-1 solid $mf-advertising-form-fieldset-border-color;
+            background-color: $white;
+            padding: 0;
+    
+            .#{$app-prefix}-legend {
+                padding: 0 $pix-2;
+                margin-left: $pix-6;
+                font-family: var(--font-roboto);
+                font-style: normal;
+                font-weight: 400;
+                font-size: $pix-10;
+                line-height: $pix-12;
+                color: $mf-advertising-form-legend-font-color;
+            }
+            .#{$app-prefix}-input {
+                width: $per-100;
+                height: $per-100;
+                font-family: var(--font-baloo-2);
+                font-style: normal;
+                font-size: 0.9em;
+                font-weight: 400;
+                line-height: $mf-advertising-form-input-line-height;
+                color: $mf-advertising-form-input-font-color;
+                outline: none;
+                background-color: transparent;
+                border-style: none;
+                position: absolute;
+                padding: 0 0.5em;
+
+                &.has-label {
+                    top: -$mf-advertising-form--factor-legend;
+                    height: calc(#{$per-100} + #{$mf-advertising-form--factor-legend});
+                  }
+            }    
+        }
+    }
+}

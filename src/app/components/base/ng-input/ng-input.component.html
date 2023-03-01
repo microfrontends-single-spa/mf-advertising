@@ -1,0 +1,6 @@
+<div class="{{APP_PREFIX}}-ng-input">
+    <fieldset class="{{APP_PREFIX}}-form {{APP_PREFIX}}-fieldset">
+        <legend *ngIf="label && label !== ''" class="{{APP_PREFIX}}-legend">{{label}}</legend>
+        <input class="{{APP_PREFIX}}-input" [placeholder]="placeholder" [ngClass]="{'has-label': label && label !== ''}"/>
+    </fieldset>
+</div>

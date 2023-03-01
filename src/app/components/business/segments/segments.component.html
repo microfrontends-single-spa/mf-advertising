@@ -1,0 +1,24 @@
+<div class="{{APP_PREFIX}}-segments">
+    <header-description title="Segmentación"
+        description="Segmentación de clientes para el envio de publicidad"></header-description>
+    <filters-segments></filters-segments>
+    <div class="row-card">
+        <general-data></general-data>
+        <percentage-clients></percentage-clients>
+    </div>
+    <div class="row-buttons">
+        <span></span>
+        <ng-button type="normal">
+            <span><em class="fa-solid fa-file-excel"></em>  Exportar Excel</span>
+        </ng-button>
+    </div>
+    <grid-segments></grid-segments>
+    <div class="row-buttons">
+        <span></span>
+        <div class="buttons">
+            <ng-button type="success" (btnClick)="redirectTo()">
+                <span>Aceptar</span>
+            </ng-button>
+        </div>
+    </div>
+</div>

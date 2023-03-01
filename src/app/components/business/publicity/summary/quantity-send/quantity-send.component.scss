@@ -1,0 +1,25 @@
+@import '../../../../../../assets/styles/variables';
+
+.#{$app-prefix}-quantity-send {
+    flex: 1;
+
+    .info {
+        align-items: center;
+        display: flex;
+        height: $per-100;
+        justify-content: center;
+
+        .options {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 2em;
+
+            .status {
+                align-items: center;
+                display: flex;
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    }
+}

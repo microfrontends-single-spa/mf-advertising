@@ -1,0 +1,18 @@
+<div class="{{APP_PREFIX}}-ng-card">
+    <div class="card-title">
+        <span>{{ title }}</span>
+        <div *ngIf="showSwitch" class="switch" (click)="openCloseWhatsapp()">
+            <div>
+                <i class="fa-solid fa-chart-simple"></i>
+            </div>
+            <div>
+                <i *ngIf="on" class="fa-solid fa-toggle-on"></i>
+                <i *ngIf="!on" class="fa-solid fa-toggle-off"></i>
+            </div>
+            <div>
+                <i class="fa-brands fa-whatsapp"></i>
+            </div>            
+        </div>
+    </div>
+    <ng-content></ng-content>
+</div>

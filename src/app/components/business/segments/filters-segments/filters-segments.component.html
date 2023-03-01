@@ -1,0 +1,46 @@
+<ng-card title="Filtros para segmentacion de clientes">
+    <div class="{{APP_PREFIX}}-filters-segments">
+        <ng-card title="Categoria">
+            <filter-list [datasource]="categories"></filter-list>
+        </ng-card>
+        <ng-card title="Tienda">
+            <filter-list [datasource]="stores"></filter-list>
+        </ng-card>
+        <ng-card title="Productos">
+            <filter-list [datasource]="products"></filter-list>
+        </ng-card>
+        <ng-card title="Planes">
+            <filter-list [datasource]="plans"></filter-list>
+        </ng-card>
+        <ng-card title="Ultimo fecha de compra">
+            <div class="container-inputs">
+                <ng-input label="Desde"></ng-input>
+                <ng-input label="Hasta"></ng-input>
+            </div>
+        </ng-card>
+        <ng-card title="Ultimo monto de compra">
+            <div class="container-inputs">
+                <ng-input label="Desde"></ng-input>
+                <ng-input label="Hasta"></ng-input>
+            </div>
+        </ng-card>
+        <ng-card title="Cantidad de compras">
+            <div class="container-inputs">
+                <ng-input label="Desde"></ng-input>
+                <ng-input label="Hasta"></ng-input>
+            </div>
+        </ng-card>
+        <ng-card title="Clientes sin compras">
+            <div class="container-inputs">
+                <ng-input label="Desde"></ng-input>
+                <ng-input label="Hasta"></ng-input>
+            </div>
+        </ng-card>
+        <ng-card title="Fecha de nacimiento">
+            <div class="container-inputs">
+                <ng-input label="Desde"></ng-input>
+                <ng-input label="Hasta"></ng-input>
+            </div>
+        </ng-card>
+    </div>
+</ng-card>

@@ -1,0 +1,53 @@
+@import '../../../../../../assets/styles/variables';
+
+.#{$app-prefix}-current-state {
+    flex: 1;
+
+    .info {
+        display: flex;
+        height: $per-100;
+        padding: 0.2em 0;
+
+        .options {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            justify-content: center;
+            margin: 0 0.2em;
+
+            .action {
+                align-items: center;
+                cursor: pointer;
+                display: flex;
+                padding: 0.2em 0;
+
+                .circle {
+                    align-items: center;
+                    background-color: var(--panel-summary-current-state-left-options-action-circle-background-color);
+                    border-radius: $per-50;
+                    color: var(--panel-summary-current-state-left-options-action-circle-icon-color);
+                    display: flex;
+                    height: $pix-35;
+                    justify-content: center;
+                    margin-right: 0.5em;
+                    width: $pix-35;
+
+                    &.select {
+                        background-color: var(--panel-summary-current-state-left-options-action-select-circle-background-color);
+                    }
+                }
+            }
+        }
+
+        .state {
+            align-items: center;
+            display: flex;
+            flex: 1;
+            justify-content: center;
+
+            .action {
+                text-align: center;
+            }
+        }
+    }
+}

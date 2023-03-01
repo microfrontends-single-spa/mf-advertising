@@ -1,0 +1,22 @@
+@import '../../../../../assets/styles/variables';
+
+.#{$app-prefix}-filters-segments {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1em;
+
+    .container-inputs {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 0.3em;
+    }
+}
+
+@media (min-width: $resolution-35em) {
+    .#{$app-prefix}-filters-segments {
+        grid-template-columns: repeat(3, 1fr);
+        .container-inputs {
+            gap: 0.5em;
+        }
+    }
+}

@@ -1,0 +1,12 @@
+@import '../../../../../../assets/styles/variables';
+
+.#{$app-prefix}-percentage-send {
+    flex: 1;
+
+    .info {
+        display: flex;
+        flex-direction: column;
+        height: $per-100;
+        justify-content: center;
+    }
+}

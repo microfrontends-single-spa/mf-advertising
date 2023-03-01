@@ -1,0 +1,35 @@
+@import '../../../../assets/styles/variables';
+
+.#{$app-prefix}-ng-card {
+    background-color: var(--panel-ng-card-background-color);    
+    border-radius: $pix-8;
+    box-shadow: 0 $pix-3 $pix-1 (-$pix-2) var(--panel-ng-card-box-shadow-color-1),
+    0 $pix-2 $pix-2 0 var(--panel-ng-card-box-shadow-color-2),
+    0 $pix-1 $pix-5 0 var(--panel-ng-card-box-shadow-color-3);
+    display: flex;
+    flex-direction: column;
+    height: $per-100;
+    padding: 1em;
+
+    .card-title {
+        color: var(--panel-ng-card-title-font-color);
+        display: flex;
+        font-weight: bold;
+        justify-content: space-between;
+        padding-bottom: 0.5em;
+
+        .switch {
+            cursor: pointer;
+            display: grid;
+            gap: 0.2em;
+            grid-template-columns: repeat(3, 20px);
+            justify-content: center;
+            
+            div {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+        }
+    }
+}

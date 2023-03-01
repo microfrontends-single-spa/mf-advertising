@@ -1,0 +1,23 @@
+@import '../../../../../../assets/styles/variables';
+
+.#{$app-prefix}-filter-list {
+    height: $pix-120;
+    overflow-y: scroll;
+
+    .filter-item {
+        align-items: center;
+        border-radius: $pix-5;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+        display: flex;
+        height: $pix-30;
+        justify-content: center;
+        margin: 0.1em 0;
+
+        &.selected {
+            background-color: #FF9800;
+            color: $white;
+            font-weight: bold;
+        }
+    }
+}

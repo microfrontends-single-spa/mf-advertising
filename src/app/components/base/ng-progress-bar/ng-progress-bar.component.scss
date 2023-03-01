@@ -1,0 +1,22 @@
+@import '../../../../assets/styles/variables';
+
+$portal-progress-color-start: #F7931E;
+$portal-progress-color-final: #F7931E;
+
+$gradiente: linear-gradient(
+  90deg,
+  $portal-progress-color-start 0%,
+  $portal-progress-color-final 100%
+);
+
+.#{$app-prefix}-ng-progress-bar {
+    background-color: #E9ECEF;
+    border-radius: $pix-50;
+    height: $pix-15;
+
+    .progress-bar {
+        background: $gradiente;
+        border-radius: $pix-50;
+        height: $pix-15;
+    }
+}

@@ -1,0 +1,25 @@
+<div class="{{APP_PREFIX}}-summary">
+    <header-description title="Resumen Publicitario"
+        description="Paso final para completar la configuración de envio de mensajes por whatsapp"></header-description>
+    <div class="row-card">
+        <general-data></general-data>
+        <current-state></current-state>
+    </div>
+    <status-send></status-send>
+    <div class="row-card">
+        <percentage-send></percentage-send>
+        <quantity-send></quantity-send>
+    </div>
+    <grid-quantity-send></grid-quantity-send>
+    <div class="row-buttons">
+        <span></span>
+        <div class="buttons">
+            <ng-button type="error" (btnClick)="redirectTo()">
+                <span>Cancelar</span>
+            </ng-button>
+            <ng-button type="success" (btnClick)="redirectTo()">
+                <span>Aceptar</span>
+            </ng-button>
+        </div>
+    </div>
+</div>

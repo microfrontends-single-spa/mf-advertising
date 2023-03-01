@@ -1,0 +1,15 @@
+@import '../../../../assets/styles/variables';
+
+.#{$app-prefix}-icon-circle {
+    align-items: center;
+    background-color: var(--panel-summary-current-state-right-state-action-circle-background-color);
+    border-radius: $per-50;
+    box-shadow: 0px $pix-4 $pix-4 rgba(0, 0, 0, 0.25);
+    color: var(--panel-summary-current-state-right-state-action-circle-icon-color);
+    cursor: pointer;
+    display: flex;
+    height: $pix-75;
+    justify-content: center;
+    margin-bottom: $pix-10;
+    width: $pix-75;
+}
