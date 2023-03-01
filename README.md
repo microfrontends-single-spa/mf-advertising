@@ -33,5 +33,5 @@ npm start
 
 
 ```sh
-build:single-spa:mf-advertising
+npm run build:single-spa:mf-advertising
 ```

@@ -2766,6 +2766,16 @@
                 "name": "AUTOR",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`Luis Amat`"
+            },
+            {
+                "name": "AUTOR",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/common/icon-circle/icon-circle.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -2786,7 +2796,7 @@
                 "name": "AUTOR",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "file": "src/app/components/business/segments/segments.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -2806,7 +2816,37 @@
                 "name": "AUTOR",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/segments.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`Luis Amat`"
+            },
+            {
+                "name": "AUTOR",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`Luis Amat`"
+            },
+            {
+                "name": "AUTOR",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`Luis Amat`"
+            },
+            {
+                "name": "AUTOR",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -2856,37 +2896,7 @@
                 "name": "AUTOR",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`Luis Amat`"
-            },
-            {
-                "name": "AUTOR",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`Luis Amat`"
-            },
-            {
-                "name": "AUTOR",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`Luis Amat`"
-            },
-            {
-                "name": "AUTOR",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -2916,6 +2926,16 @@
                 "name": "AUTOR",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`Luis Amat`"
+            },
+            {
+                "name": "AUTOR",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/general-data/general-data.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -2926,7 +2946,7 @@
                 "name": "AUTOR",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -2956,27 +2976,7 @@
                 "name": "AUTOR",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`Luis Amat`"
-            },
-            {
-                "name": "AUTOR",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/status-send/status-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`Luis Amat`"
-            },
-            {
-                "name": "AUTOR",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -3016,6 +3016,16 @@
                 "name": "Base",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "Template.bind({})"
+            },
+            {
+                "name": "Base",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/common/icon-circle/icon-circle.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -3036,7 +3046,7 @@
                 "name": "Base",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "file": "src/app/components/business/segments/segments.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -3056,7 +3066,37 @@
                 "name": "Base",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/segments.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "Template.bind({})"
+            },
+            {
+                "name": "Base",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "Template.bind({})"
+            },
+            {
+                "name": "Base",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "Template.bind({})"
+            },
+            {
+                "name": "Base",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -3106,37 +3146,7 @@
                 "name": "Base",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "Template.bind({})"
-            },
-            {
-                "name": "Base",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "Template.bind({})"
-            },
-            {
-                "name": "Base",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "Template.bind({})"
-            },
-            {
-                "name": "Base",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -3166,6 +3176,16 @@
                 "name": "Base",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "Template.bind({})"
+            },
+            {
+                "name": "Base",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/general-data/general-data.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -3176,7 +3196,7 @@
                 "name": "Base",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -3206,27 +3226,7 @@
                 "name": "Base",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "Template.bind({})"
-            },
-            {
-                "name": "Base",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/status-send/status-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "Template.bind({})"
-            },
-            {
-                "name": "Base",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -3296,6 +3296,16 @@
                 "name": "COMPONENT_NORMAL",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n<div style=\"width: 500px;\">\n    <header-description [title]=\"title\" [description]=\"description\"></header-description>\n</div>`"
+            },
+            {
+                "name": "COMPONENT_NORMAL",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/common/icon-circle/icon-circle.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -3316,11 +3326,11 @@
                 "name": "COMPONENT_NORMAL",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "file": "src/app/components/business/segments/segments.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`\n<div style=\"width: 500px;\">\n    <header-description [title]=\"title\" [description]=\"description\"></header-description>\n</div>`"
+                "defaultValue": "`\n<div>\n    <segments></segments>\n</div>`"
             },
             {
                 "name": "COMPONENT_NORMAL",
@@ -3336,11 +3346,41 @@
                 "name": "COMPONENT_NORMAL",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/segments.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`\n<div>\n    <segments></segments>\n</div>`"
+                "defaultValue": "`\n<div style=\"width: 100%\">\n    <filters-segments></filters-segments>\n</div>`"
+            },
+            {
+                "name": "COMPONENT_NORMAL",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n<div style=\"width: 400px\">\n    <general-data></general-data>\n</div>`"
+            },
+            {
+                "name": "COMPONENT_NORMAL",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n<div style=\"width: 100%\">\n    <grid-segments></grid-segments>\n</div>`"
+            },
+            {
+                "name": "COMPONENT_NORMAL",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n<div style=\"width: 500px\">\n    <percentage-clients></percentage-clients>\n</div>`"
             },
             {
                 "name": "COMPONENT_NORMAL",
@@ -3386,41 +3426,11 @@
                 "name": "COMPONENT_NORMAL",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`\n<div style=\"width: 400px\">\n    <general-data></general-data>\n</div>`"
-            },
-            {
-                "name": "COMPONENT_NORMAL",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n<div style=\"width: 100%\">\n    <filters-segments></filters-segments>\n</div>`"
-            },
-            {
-                "name": "COMPONENT_NORMAL",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n<div style=\"width: 100%\">\n    <grid-segments></grid-segments>\n</div>`"
-            },
-            {
-                "name": "COMPONENT_NORMAL",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n<div style=\"width: 500px\">\n    <percentage-clients></percentage-clients>\n</div>`"
+                "defaultValue": "`\n<div style=\"width: 300px\">\n    <ng-card title=\"Categoría\">\n        <filter-list [datasource]=\"datasource\"></filter-list>\n    </ng-card>    \n</div>`"
             },
             {
                 "name": "COMPONENT_NORMAL",
@@ -3446,6 +3456,16 @@
                 "name": "COMPONENT_NORMAL",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n<div style=\"min-width: 400px;\">\n    <current-state></current-state>\n</div>`"
+            },
+            {
+                "name": "COMPONENT_NORMAL",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/general-data/general-data.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -3456,11 +3476,11 @@
                 "name": "COMPONENT_NORMAL",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`\n<div style=\"min-width: 400px;\">\n    <current-state></current-state>\n</div>`"
+                "defaultValue": "`\n<div style=\"min-width: auto;\">\n    <grid-quantity-send></grid-quantity-send>\n</div>`"
             },
             {
                 "name": "COMPONENT_NORMAL",
@@ -3486,31 +3506,11 @@
                 "name": "COMPONENT_NORMAL",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n<div style=\"min-width: auto;\">\n    <grid-quantity-send></grid-quantity-send>\n</div>`"
-            },
-            {
-                "name": "COMPONENT_NORMAL",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/status-send/status-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
                 "defaultValue": "`\n<div style=\"min-width: 400px;\">\n    <status-send [current]=\"current\"></status-send>\n</div>`"
-            },
-            {
-                "name": "COMPONENT_NORMAL",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n<div style=\"width: 300px\">\n    <ng-card title=\"Categoría\">\n        <filter-list [datasource]=\"datasource\"></filter-list>\n    </ng-card>    \n</div>`"
             },
             {
                 "name": "Disabled",
@@ -3636,6 +3636,16 @@
                 "name": "HISTORY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
+            },
+            {
+                "name": "HISTORY",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/common/icon-circle/icon-circle.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -3656,7 +3666,7 @@
                 "name": "HISTORY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "file": "src/app/components/business/segments/segments.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -3676,7 +3686,37 @@
                 "name": "HISTORY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/segments.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
+            },
+            {
+                "name": "HISTORY",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
+            },
+            {
+                "name": "HISTORY",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
+            },
+            {
+                "name": "HISTORY",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -3726,37 +3766,7 @@
                 "name": "HISTORY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
-            },
-            {
-                "name": "HISTORY",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
-            },
-            {
-                "name": "HISTORY",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
-            },
-            {
-                "name": "HISTORY",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -3786,6 +3796,16 @@
                 "name": "HISTORY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
+            },
+            {
+                "name": "HISTORY",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/general-data/general-data.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -3796,7 +3816,7 @@
                 "name": "HISTORY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -3826,27 +3846,7 @@
                 "name": "HISTORY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
-            },
-            {
-                "name": "HISTORY",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/status-send/status-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
-            },
-            {
-                "name": "HISTORY",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -3966,6 +3966,16 @@
                 "name": "PROPS",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n    <li><strong>title</strong>: Titulo del módulo</li>\n    <li><strong>description</strong>: Descripción del módulo</li>\n`"
+            },
+            {
+                "name": "PROPS",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/common/icon-circle/icon-circle.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -3986,11 +3996,11 @@
                 "name": "PROPS",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "file": "src/app/components/business/segments/segments.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`\n    <li><strong>title</strong>: Titulo del módulo</li>\n    <li><strong>description</strong>: Descripción del módulo</li>\n`"
+                "defaultValue": "`\n`"
             },
             {
                 "name": "PROPS",
@@ -4006,7 +4016,37 @@
                 "name": "PROPS",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/segments.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n`"
+            },
+            {
+                "name": "PROPS",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n`"
+            },
+            {
+                "name": "PROPS",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n`"
+            },
+            {
+                "name": "PROPS",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -4056,37 +4096,7 @@
                 "name": "PROPS",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n`"
-            },
-            {
-                "name": "PROPS",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n`"
-            },
-            {
-                "name": "PROPS",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n`"
-            },
-            {
-                "name": "PROPS",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -4116,6 +4126,16 @@
                 "name": "PROPS",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n`"
+            },
+            {
+                "name": "PROPS",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/general-data/general-data.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -4126,7 +4146,7 @@
                 "name": "PROPS",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
@@ -4156,31 +4176,11 @@
                 "name": "PROPS",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n`"
-            },
-            {
-                "name": "PROPS",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/status-send/status-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
                 "defaultValue": "`\n    <li><strong>current</strong>: Valor actual del envio de publicidad por whatsapp</li>\n`"
-            },
-            {
-                "name": "PROPS",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n`"
             },
             {
                 "name": "singleSpaPropsSubject",
@@ -4256,6 +4256,16 @@
                 "name": "SUMMARY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n    El componente <strong>HEADER-DESCRIPTION</strong> presenta una descripcion general del módulo donde el usuario ingreso, en él se definen las siguientes <strong>propiedades</strong>:`"
+            },
+            {
+                "name": "SUMMARY",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/common/icon-circle/icon-circle.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -4276,11 +4286,11 @@
                 "name": "SUMMARY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "file": "src/app/components/business/segments/segments.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`\n    El componente <strong>HEADER-DESCRIPTION</strong> presenta una descripcion general del módulo donde el usuario ingreso, en él se definen las siguientes <strong>propiedades</strong>:`"
+                "defaultValue": "`\n    El componente <strong>SEGMENTS</strong> presenta información y los filtros para segmentar los clientes para el envío de publicidad por whatsapp, en el se definen las siguientes <strong>propiedades</strong>:`"
             },
             {
                 "name": "SUMMARY",
@@ -4296,11 +4306,41 @@
                 "name": "SUMMARY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/segments.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`\n    El componente <strong>SEGMENTS</strong> presenta información y los filtros para segmentar los clientes para el envío de publicidad por whatsapp, en el se definen las siguientes <strong>propiedades</strong>:`"
+                "defaultValue": "`\n    El componente <strong>FILTERS-SEGMENTS</strong> presenta filtros para segmentar la cantidad de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
+            },
+            {
+                "name": "SUMMARY",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n    El componente <strong>GENERAL-DATA</strong> presenta información resumida sobre la configuración para el envío de publicidad, en el se definen las siguientes <strong>propiedades</strong>:`"
+            },
+            {
+                "name": "SUMMARY",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n    El componente <strong>GRID-SEGMENTS</strong> presenta información de cada cliente en registro de una grilla según los filtros de segmentación, en el se definen las siguientes <strong>propiedades</strong>:`"
+            },
+            {
+                "name": "SUMMARY",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n    El componente <strong>PERCENTAGE-CLIENTS</strong> presenta información en gráfica sobre la segmentación de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
             },
             {
                 "name": "SUMMARY",
@@ -4346,41 +4386,11 @@
                 "name": "SUMMARY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`\n    El componente <strong>GENERAL-DATA</strong> presenta información resumida sobre la configuración para el envío de publicidad, en el se definen las siguientes <strong>propiedades</strong>:`"
-            },
-            {
-                "name": "SUMMARY",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n    El componente <strong>FILTERS-SEGMENTS</strong> presenta filtros para segmentar la cantidad de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
-            },
-            {
-                "name": "SUMMARY",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n    El componente <strong>GRID-SEGMENTS</strong> presenta información de cada cliente en registro de una grilla según los filtros de segmentación, en el se definen las siguientes <strong>propiedades</strong>:`"
-            },
-            {
-                "name": "SUMMARY",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n    El componente <strong>PERCENTAGE-CLIENTS</strong> presenta información en gráfica sobre la segmentación de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
+                "defaultValue": "`\n    El componente <strong>FILTER-LIST</strong> presenta un filtro en lista para segmentar la cantidad de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
             },
             {
                 "name": "SUMMARY",
@@ -4406,6 +4416,16 @@
                 "name": "SUMMARY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`\n    El componente <strong>CURRENT-STATE</strong> presenta el estado actual de la publicidad para el envío de la misma por whatsapp, en el se definen las siguientes <strong>propiedades</strong>:`"
+            },
+            {
+                "name": "SUMMARY",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/general-data/general-data.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -4416,11 +4436,11 @@
                 "name": "SUMMARY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`\n    El componente <strong>CURRENT-STATE</strong> presenta el estado actual de la publicidad para el envío de la misma por whatsapp, en el se definen las siguientes <strong>propiedades</strong>:`"
+                "defaultValue": "`\n    El componente <strong>GRID-QUANTITY-SEND</strong> presenta información en registros de cada cliente al que se envío la publicidad por whastapp, en él se definen las siguientes <strong>propiedades</strong>:`"
             },
             {
                 "name": "SUMMARY",
@@ -4446,31 +4466,11 @@
                 "name": "SUMMARY",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n    El componente <strong>GRID-QUANTITY-SEND</strong> presenta información en registros de cada cliente al que se envío la publicidad por whastapp, en él se definen las siguientes <strong>propiedades</strong>:`"
-            },
-            {
-                "name": "SUMMARY",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/status-send/status-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
                 "defaultValue": "`\n    El componente <strong>STATUS-SEND</strong> presenta el estado actual de todo el envio de publicidad por whatsapp, en el se definen las siguientes <strong>propiedades</strong>:`"
-            },
-            {
-                "name": "SUMMARY",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`\n    El componente <strong>FILTER-LIST</strong> presenta un filtro en lista para segmentar la cantidad de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
             },
             {
                 "name": "Template",
@@ -4526,6 +4526,16 @@
                 "name": "Template",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "Story",
+                "defaultValue": "(args) => ({\n    props: args\n})"
+            },
+            {
+                "name": "Template",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/common/icon-circle/icon-circle.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -4546,7 +4556,7 @@
                 "name": "Template",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "file": "src/app/components/business/segments/segments.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "Story",
@@ -4566,7 +4576,37 @@
                 "name": "Template",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/segments.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "Story",
+                "defaultValue": "(args) => ({\n    props: args\n})"
+            },
+            {
+                "name": "Template",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "Story",
+                "defaultValue": "(args) => ({\n    props: args\n})"
+            },
+            {
+                "name": "Template",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "Story",
+                "defaultValue": "(args) => ({\n    props: args\n})"
+            },
+            {
+                "name": "Template",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "Story",
@@ -4616,37 +4656,7 @@
                 "name": "Template",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "Story",
-                "defaultValue": "(args) => ({\n    props: args\n})"
-            },
-            {
-                "name": "Template",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "Story",
-                "defaultValue": "(args) => ({\n    props: args\n})"
-            },
-            {
-                "name": "Template",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "Story",
-                "defaultValue": "(args) => ({\n    props: args\n})"
-            },
-            {
-                "name": "Template",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "Story",
@@ -4676,6 +4686,16 @@
                 "name": "Template",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "Story",
+                "defaultValue": "(args) => ({\n    props: args\n})"
+            },
+            {
+                "name": "Template",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/general-data/general-data.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -4686,7 +4706,7 @@
                 "name": "Template",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "Story",
@@ -4716,27 +4736,7 @@
                 "name": "Template",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "Story",
-                "defaultValue": "(args) => ({\n    props: args\n})"
-            },
-            {
-                "name": "Template",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/status-send/status-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "Story",
-                "defaultValue": "(args) => ({\n    props: args\n})"
-            },
-            {
-                "name": "Template",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "Story",
@@ -4796,6 +4796,16 @@
                 "name": "TITULO",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`HEADER-DESCRIPTION`"
+            },
+            {
+                "name": "TITULO",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/common/icon-circle/icon-circle.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -4816,11 +4826,11 @@
                 "name": "TITULO",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                "file": "src/app/components/business/segments/segments.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`HEADER-DESCRIPTION`"
+                "defaultValue": "`SEGMENTS`"
             },
             {
                 "name": "TITULO",
@@ -4836,11 +4846,41 @@
                 "name": "TITULO",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/segments.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`SEGMENTS`"
+                "defaultValue": "`FILTERS-SEGMENTS`"
+            },
+            {
+                "name": "TITULO",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`GENERAL-DATA`"
+            },
+            {
+                "name": "TITULO",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`GRID-SEGMENTS`"
+            },
+            {
+                "name": "TITULO",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`PERCENTAGE-CLIENTS`"
             },
             {
                 "name": "TITULO",
@@ -4886,41 +4926,11 @@
                 "name": "TITULO",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`GENERAL-DATA`"
-            },
-            {
-                "name": "TITULO",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`FILTERS-SEGMENTS`"
-            },
-            {
-                "name": "TITULO",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`GRID-SEGMENTS`"
-            },
-            {
-                "name": "TITULO",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`PERCENTAGE-CLIENTS`"
+                "defaultValue": "`FILTER-LIST`"
             },
             {
                 "name": "TITULO",
@@ -4946,6 +4956,16 @@
                 "name": "TITULO",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
+                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "",
+                "defaultValue": "`CURRENT-STATE`"
+            },
+            {
+                "name": "TITULO",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/general-data/general-data.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
@@ -4956,11 +4976,11 @@
                 "name": "TITULO",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
-                "defaultValue": "`CURRENT-STATE`"
+                "defaultValue": "`GRID-QUANTITY-SEND`"
             },
             {
                 "name": "TITULO",
@@ -4986,31 +5006,11 @@
                 "name": "TITULO",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`GRID-QUANTITY-SEND`"
-            },
-            {
-                "name": "TITULO",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
                 "file": "src/app/components/business/publicity/summary/status-send/status-send.component.stories.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "",
                 "defaultValue": "`STATUS-SEND`"
-            },
-            {
-                "name": "TITULO",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
-                "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "",
-                "defaultValue": "`FILTER-LIST`"
             },
             {
                 "name": "unmount",
@@ -5551,6 +5551,88 @@
                     "defaultValue": "`BUTTON-NEW`"
                 }
             ],
+            "src/app/components/common/header-description/header-description.component.stories.ts": [
+                {
+                    "name": "AUTOR",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`Luis Amat`"
+                },
+                {
+                    "name": "Base",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "Template.bind({})"
+                },
+                {
+                    "name": "COMPONENT_NORMAL",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n<div style=\"width: 500px;\">\n    <header-description [title]=\"title\" [description]=\"description\"></header-description>\n</div>`"
+                },
+                {
+                    "name": "HISTORY",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
+                },
+                {
+                    "name": "PROPS",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n    <li><strong>title</strong>: Titulo del módulo</li>\n    <li><strong>description</strong>: Descripción del módulo</li>\n`"
+                },
+                {
+                    "name": "SUMMARY",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n    El componente <strong>HEADER-DESCRIPTION</strong> presenta una descripcion general del módulo donde el usuario ingreso, en él se definen las siguientes <strong>propiedades</strong>:`"
+                },
+                {
+                    "name": "Template",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "Story",
+                    "defaultValue": "(args) => ({\n    props: args\n})"
+                },
+                {
+                    "name": "TITULO",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`HEADER-DESCRIPTION`"
+                }
+            ],
             "src/app/components/common/icon-circle/icon-circle.component.stories.ts": [
                 {
                     "name": "AUTOR",
@@ -5715,12 +5797,12 @@
                     "defaultValue": "`PROGRESS-BAR-INFO`"
                 }
             ],
-            "src/app/components/common/header-description/header-description.component.stories.ts": [
+            "src/app/components/business/segments/segments.component.stories.ts": [
                 {
                     "name": "AUTOR",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "file": "src/app/components/business/segments/segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -5730,7 +5812,7 @@
                     "name": "Base",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "file": "src/app/components/business/segments/segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -5740,17 +5822,17 @@
                     "name": "COMPONENT_NORMAL",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "file": "src/app/components/business/segments/segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`\n<div style=\"width: 500px;\">\n    <header-description [title]=\"title\" [description]=\"description\"></header-description>\n</div>`"
+                    "defaultValue": "`\n<div>\n    <segments></segments>\n</div>`"
                 },
                 {
                     "name": "HISTORY",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "file": "src/app/components/business/segments/segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -5760,27 +5842,27 @@
                     "name": "PROPS",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "file": "src/app/components/business/segments/segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`\n    <li><strong>title</strong>: Titulo del módulo</li>\n    <li><strong>description</strong>: Descripción del módulo</li>\n`"
+                    "defaultValue": "`\n`"
                 },
                 {
                     "name": "SUMMARY",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "file": "src/app/components/business/segments/segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`\n    El componente <strong>HEADER-DESCRIPTION</strong> presenta una descripcion general del módulo donde el usuario ingreso, en él se definen las siguientes <strong>propiedades</strong>:`"
+                    "defaultValue": "`\n    El componente <strong>SEGMENTS</strong> presenta información y los filtros para segmentar los clientes para el envío de publicidad por whatsapp, en el se definen las siguientes <strong>propiedades</strong>:`"
                 },
                 {
                     "name": "Template",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "file": "src/app/components/business/segments/segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "Story",
@@ -5790,11 +5872,11 @@
                     "name": "TITULO",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/common/header-description/header-description.component.stories.ts",
+                    "file": "src/app/components/business/segments/segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`HEADER-DESCRIPTION`"
+                    "defaultValue": "`SEGMENTS`"
                 }
             ],
             "src/app/components/business/templates/templates.component.stories.ts": [
@@ -5879,12 +5961,12 @@
                     "defaultValue": "`TEMPLATES`"
                 }
             ],
-            "src/app/components/business/segments/segments.component.stories.ts": [
+            "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts": [
                 {
                     "name": "AUTOR",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/segments.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -5894,7 +5976,7 @@
                     "name": "Base",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/segments.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -5904,17 +5986,17 @@
                     "name": "COMPONENT_NORMAL",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/segments.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`\n<div>\n    <segments></segments>\n</div>`"
+                    "defaultValue": "`\n<div style=\"width: 100%\">\n    <filters-segments></filters-segments>\n</div>`"
                 },
                 {
                     "name": "HISTORY",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/segments.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -5924,7 +6006,7 @@
                     "name": "PROPS",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/segments.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -5934,17 +6016,17 @@
                     "name": "SUMMARY",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/segments.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`\n    El componente <strong>SEGMENTS</strong> presenta información y los filtros para segmentar los clientes para el envío de publicidad por whatsapp, en el se definen las siguientes <strong>propiedades</strong>:`"
+                    "defaultValue": "`\n    El componente <strong>FILTERS-SEGMENTS</strong> presenta filtros para segmentar la cantidad de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
                 },
                 {
                     "name": "Template",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/segments.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "Story",
@@ -5954,11 +6036,257 @@
                     "name": "TITULO",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/segments.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`SEGMENTS`"
+                    "defaultValue": "`FILTERS-SEGMENTS`"
+                }
+            ],
+            "src/app/components/business/segments/general-data/general-data.component.stories.ts": [
+                {
+                    "name": "AUTOR",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`Luis Amat`"
+                },
+                {
+                    "name": "Base",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "Template.bind({})"
+                },
+                {
+                    "name": "COMPONENT_NORMAL",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n<div style=\"width: 400px\">\n    <general-data></general-data>\n</div>`"
+                },
+                {
+                    "name": "HISTORY",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
+                },
+                {
+                    "name": "PROPS",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n`"
+                },
+                {
+                    "name": "SUMMARY",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n    El componente <strong>GENERAL-DATA</strong> presenta información resumida sobre la configuración para el envío de publicidad, en el se definen las siguientes <strong>propiedades</strong>:`"
+                },
+                {
+                    "name": "Template",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "Story",
+                    "defaultValue": "(args) => ({\n    props: args\n})"
+                },
+                {
+                    "name": "TITULO",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`GENERAL-DATA`"
+                }
+            ],
+            "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts": [
+                {
+                    "name": "AUTOR",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`Luis Amat`"
+                },
+                {
+                    "name": "Base",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "Template.bind({})"
+                },
+                {
+                    "name": "COMPONENT_NORMAL",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n<div style=\"width: 100%\">\n    <grid-segments></grid-segments>\n</div>`"
+                },
+                {
+                    "name": "HISTORY",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
+                },
+                {
+                    "name": "PROPS",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n`"
+                },
+                {
+                    "name": "SUMMARY",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n    El componente <strong>GRID-SEGMENTS</strong> presenta información de cada cliente en registro de una grilla según los filtros de segmentación, en el se definen las siguientes <strong>propiedades</strong>:`"
+                },
+                {
+                    "name": "Template",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "Story",
+                    "defaultValue": "(args) => ({\n    props: args\n})"
+                },
+                {
+                    "name": "TITULO",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`GRID-SEGMENTS`"
+                }
+            ],
+            "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts": [
+                {
+                    "name": "AUTOR",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`Luis Amat`"
+                },
+                {
+                    "name": "Base",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "Template.bind({})"
+                },
+                {
+                    "name": "COMPONENT_NORMAL",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n<div style=\"width: 500px\">\n    <percentage-clients></percentage-clients>\n</div>`"
+                },
+                {
+                    "name": "HISTORY",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
+                },
+                {
+                    "name": "PROPS",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n`"
+                },
+                {
+                    "name": "SUMMARY",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n    El componente <strong>PERCENTAGE-CLIENTS</strong> presenta información en gráfica sobre la segmentación de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
+                },
+                {
+                    "name": "Template",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "Story",
+                    "defaultValue": "(args) => ({\n    props: args\n})"
+                },
+                {
+                    "name": "TITULO",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`PERCENTAGE-CLIENTS`"
                 }
             ],
             "src/app/components/business/publicity/advertising/advertising.component.stories.ts": [
@@ -6289,12 +6617,12 @@
                     "defaultValue": "`GRID-TEMPLATES`"
                 }
             ],
-            "src/app/components/business/segments/general-data/general-data.component.stories.ts": [
+            "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts": [
                 {
                     "name": "AUTOR",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -6304,7 +6632,7 @@
                     "name": "Base",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -6314,17 +6642,17 @@
                     "name": "COMPONENT_NORMAL",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`\n<div style=\"width: 400px\">\n    <general-data></general-data>\n</div>`"
+                    "defaultValue": "`\n<div style=\"width: 300px\">\n    <ng-card title=\"Categoría\">\n        <filter-list [datasource]=\"datasource\"></filter-list>\n    </ng-card>    \n</div>`"
                 },
                 {
                     "name": "HISTORY",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -6334,7 +6662,7 @@
                     "name": "PROPS",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -6344,17 +6672,17 @@
                     "name": "SUMMARY",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`\n    El componente <strong>GENERAL-DATA</strong> presenta información resumida sobre la configuración para el envío de publicidad, en el se definen las siguientes <strong>propiedades</strong>:`"
+                    "defaultValue": "`\n    El componente <strong>FILTER-LIST</strong> presenta un filtro en lista para segmentar la cantidad de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
                 },
                 {
                     "name": "Template",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "Story",
@@ -6364,257 +6692,11 @@
                     "name": "TITULO",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/segments/general-data/general-data.component.stories.ts",
+                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`GENERAL-DATA`"
-                }
-            ],
-            "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts": [
-                {
-                    "name": "AUTOR",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`Luis Amat`"
-                },
-                {
-                    "name": "Base",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "Template.bind({})"
-                },
-                {
-                    "name": "COMPONENT_NORMAL",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n<div style=\"width: 100%\">\n    <filters-segments></filters-segments>\n</div>`"
-                },
-                {
-                    "name": "HISTORY",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
-                },
-                {
-                    "name": "PROPS",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n`"
-                },
-                {
-                    "name": "SUMMARY",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n    El componente <strong>FILTERS-SEGMENTS</strong> presenta filtros para segmentar la cantidad de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
-                },
-                {
-                    "name": "Template",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "Story",
-                    "defaultValue": "(args) => ({\n    props: args\n})"
-                },
-                {
-                    "name": "TITULO",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filters-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`FILTERS-SEGMENTS`"
-                }
-            ],
-            "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts": [
-                {
-                    "name": "AUTOR",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`Luis Amat`"
-                },
-                {
-                    "name": "Base",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "Template.bind({})"
-                },
-                {
-                    "name": "COMPONENT_NORMAL",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n<div style=\"width: 100%\">\n    <grid-segments></grid-segments>\n</div>`"
-                },
-                {
-                    "name": "HISTORY",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
-                },
-                {
-                    "name": "PROPS",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n`"
-                },
-                {
-                    "name": "SUMMARY",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n    El componente <strong>GRID-SEGMENTS</strong> presenta información de cada cliente en registro de una grilla según los filtros de segmentación, en el se definen las siguientes <strong>propiedades</strong>:`"
-                },
-                {
-                    "name": "Template",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "Story",
-                    "defaultValue": "(args) => ({\n    props: args\n})"
-                },
-                {
-                    "name": "TITULO",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/grid-segments/grid-segments.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`GRID-SEGMENTS`"
-                }
-            ],
-            "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts": [
-                {
-                    "name": "AUTOR",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`Luis Amat`"
-                },
-                {
-                    "name": "Base",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "Template.bind({})"
-                },
-                {
-                    "name": "COMPONENT_NORMAL",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n<div style=\"width: 500px\">\n    <percentage-clients></percentage-clients>\n</div>`"
-                },
-                {
-                    "name": "HISTORY",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
-                },
-                {
-                    "name": "PROPS",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n`"
-                },
-                {
-                    "name": "SUMMARY",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n    El componente <strong>PERCENTAGE-CLIENTS</strong> presenta información en gráfica sobre la segmentación de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
-                },
-                {
-                    "name": "Template",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "Story",
-                    "defaultValue": "(args) => ({\n    props: args\n})"
-                },
-                {
-                    "name": "TITULO",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/percentage-clients/percentage-clients.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`PERCENTAGE-CLIENTS`"
+                    "defaultValue": "`FILTER-LIST`"
                 }
             ],
             "src/app/components/business/publicity/advertising/filters-advertising/filters-advertising.component.stories.ts": [
@@ -6781,6 +6863,88 @@
                     "defaultValue": "`GRID-ADVERTISING`"
                 }
             ],
+            "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts": [
+                {
+                    "name": "AUTOR",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`Luis Amat`"
+                },
+                {
+                    "name": "Base",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "Template.bind({})"
+                },
+                {
+                    "name": "COMPONENT_NORMAL",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n<div style=\"min-width: 400px;\">\n    <current-state></current-state>\n</div>`"
+                },
+                {
+                    "name": "HISTORY",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
+                },
+                {
+                    "name": "PROPS",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n`"
+                },
+                {
+                    "name": "SUMMARY",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`\n    El componente <strong>CURRENT-STATE</strong> presenta el estado actual de la publicidad para el envío de la misma por whatsapp, en el se definen las siguientes <strong>propiedades</strong>:`"
+                },
+                {
+                    "name": "Template",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "Story",
+                    "defaultValue": "(args) => ({\n    props: args\n})"
+                },
+                {
+                    "name": "TITULO",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "",
+                    "defaultValue": "`CURRENT-STATE`"
+                }
+            ],
             "src/app/components/business/publicity/summary/general-data/general-data.component.stories.ts": [
                 {
                     "name": "AUTOR",
@@ -6863,12 +7027,12 @@
                     "defaultValue": "`GENERAL-DATA`"
                 }
             ],
-            "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts": [
+            "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts": [
                 {
                     "name": "AUTOR",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -6878,7 +7042,7 @@
                     "name": "Base",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -6888,17 +7052,17 @@
                     "name": "COMPONENT_NORMAL",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`\n<div style=\"min-width: 400px;\">\n    <current-state></current-state>\n</div>`"
+                    "defaultValue": "`\n<div style=\"min-width: auto;\">\n    <grid-quantity-send></grid-quantity-send>\n</div>`"
                 },
                 {
                     "name": "HISTORY",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -6908,7 +7072,7 @@
                     "name": "PROPS",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
@@ -6918,17 +7082,17 @@
                     "name": "SUMMARY",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`\n    El componente <strong>CURRENT-STATE</strong> presenta el estado actual de la publicidad para el envío de la misma por whatsapp, en el se definen las siguientes <strong>propiedades</strong>:`"
+                    "defaultValue": "`\n    El componente <strong>GRID-QUANTITY-SEND</strong> presenta información en registros de cada cliente al que se envío la publicidad por whastapp, en él se definen las siguientes <strong>propiedades</strong>:`"
                 },
                 {
                     "name": "Template",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "Story",
@@ -6938,11 +7102,11 @@
                     "name": "TITULO",
                     "ctype": "miscellaneous",
                     "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/current-state/current-state.component.stories.ts",
+                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "",
-                    "defaultValue": "`CURRENT-STATE`"
+                    "defaultValue": "`GRID-QUANTITY-SEND`"
                 }
             ],
             "src/app/components/business/publicity/summary/percentage-send/percentage-send.component.stories.ts": [
@@ -7109,88 +7273,6 @@
                     "defaultValue": "`QUANTITY-SEND`"
                 }
             ],
-            "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts": [
-                {
-                    "name": "AUTOR",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`Luis Amat`"
-                },
-                {
-                    "name": "Base",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "Template.bind({})"
-                },
-                {
-                    "name": "COMPONENT_NORMAL",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n<div style=\"min-width: auto;\">\n    <grid-quantity-send></grid-quantity-send>\n</div>`"
-                },
-                {
-                    "name": "HISTORY",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
-                },
-                {
-                    "name": "PROPS",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n`"
-                },
-                {
-                    "name": "SUMMARY",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n    El componente <strong>GRID-QUANTITY-SEND</strong> presenta información en registros de cada cliente al que se envío la publicidad por whastapp, en él se definen las siguientes <strong>propiedades</strong>:`"
-                },
-                {
-                    "name": "Template",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "Story",
-                    "defaultValue": "(args) => ({\n    props: args\n})"
-                },
-                {
-                    "name": "TITULO",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/publicity/summary/grid-quantity-send/grid-quantity-send.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`GRID-QUANTITY-SEND`"
-                }
-            ],
             "src/app/components/business/publicity/summary/status-send/status-send.component.stories.ts": [
                 {
                     "name": "AUTOR",
@@ -7271,88 +7353,6 @@
                     "deprecationMessage": "",
                     "type": "",
                     "defaultValue": "`STATUS-SEND`"
-                }
-            ],
-            "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts": [
-                {
-                    "name": "AUTOR",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`Luis Amat`"
-                },
-                {
-                    "name": "Base",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "Template.bind({})"
-                },
-                {
-                    "name": "COMPONENT_NORMAL",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n<div style=\"width: 300px\">\n    <ng-card title=\"Categoría\">\n        <filter-list [datasource]=\"datasource\"></filter-list>\n    </ng-card>    \n</div>`"
-                },
-                {
-                    "name": "HISTORY",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n    <span>[2023-01-25][Luis Amat] Creación del componente</span>\n`"
-                },
-                {
-                    "name": "PROPS",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n`"
-                },
-                {
-                    "name": "SUMMARY",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`\n    El componente <strong>FILTER-LIST</strong> presenta un filtro en lista para segmentar la cantidad de clientes, en el se definen las siguientes <strong>propiedades</strong>:`"
-                },
-                {
-                    "name": "Template",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "Story",
-                    "defaultValue": "(args) => ({\n    props: args\n})"
-                },
-                {
-                    "name": "TITULO",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/app/components/business/segments/filters-segments/filter-list/filter-list.component.stories.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "",
-                    "defaultValue": "`FILTER-LIST`"
                 }
             ],
             "src/main.single-spa.ts": [
